@@ -1,2 +1,2 @@
 # Design
-All the parts! CAD, PCB and STLs of Mugsy's physical components. 
+All the parts! CAD, PCB and STL files for all of Mugsy's physical components. 
