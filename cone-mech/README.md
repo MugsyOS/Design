@@ -7,7 +7,7 @@
   * STLs provided for both top and bottom panels.
   * DXF files provided for those with access to a laser or CNC. We use 3mm cast acrylic which works out great. Other material can be used but must be 3mm. 
 * Idler Mount (1 File): Print two.
-- - -
+
 ## Additional Parts:
 * Stepper Motor
   * Model:14HR05-0504S
