@@ -18,5 +18,10 @@
 * **M3 Threaded Inserts:**
   * Size: M3*4.6x5.7mm
 * **M3 x 8mm Hex Head Machine Screws**
+* * **2GT Timing Pulley:** 
+  * Type: 2M-AF
+  * 20 Teeth
+  * 6mm bore size
+* **GT2 Toothless  Idler Pulleys (2x):** 3mm bore size
 
 ***All STEP/Fusion CAD source files will be uploaded as soon as possible.*** 
