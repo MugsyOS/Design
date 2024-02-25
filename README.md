@@ -21,6 +21,7 @@ All the parts! CAD, PCB and STL files for all of Mugsy's physical components.
 * **M3 Threaded Inserts:**
   * Size: M3*4.6x5.7mm
 * **M3 x 8mm Hex Head Machine Screws**
+* **GT2 Toothless Pulleys (2x):** 3mm bore size
 
 ***All STEP/Fusion CAD source files will be uploaded as soon as possible.*** 
 
