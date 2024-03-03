@@ -10,7 +10,7 @@ All the parts! CAD, PCB and STL files for all of Mugsy's physical components.
   * STLs provided for both top and bottom panels.
   * DXF files provided for those with access to a laser or CNC. We use 3mm cast acrylic which works out great. Other material can be used but must be 3mm. 
 * **Idler Mount (1 File):** Print two.
-* * **PCB:**
+* **PCB:**
   * Board and schematic files are available for Eagle and Fusion360.
   * The plan is to move to KiCAD for all PCB development but there is no ETA on that yet.
 - - -
