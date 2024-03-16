@@ -2,7 +2,6 @@
 All the parts! CAD, PCB and STL files for all of Mugsy's physical components. 
 
 # Cone Mech
-- - -
 ### Files:
 * **Cone Pulley (2 files):** Print main and top.
 * **Cone Support (1 file):** Print two for both left and right supports.
