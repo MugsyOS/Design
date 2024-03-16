@@ -1,7 +1,8 @@
 # Design
 All the parts! CAD, PCB and STL files for all of Mugsy's physical components. 
 
-## Cone Mech
+# Cone Mech
+- - -
 ### Files:
 * **Cone Pulley (2 files):** Print main and top.
 * **Cone Support (1 file):** Print two for both left and right supports.
@@ -10,9 +11,6 @@ All the parts! CAD, PCB and STL files for all of Mugsy's physical components.
   * STLs provided for both top and bottom panels.
   * DXF files provided for those with access to a laser or CNC. We use 3mm cast acrylic which works out great. Other material can be used but must be 3mm. 
 * **Idler Mount (1 File):** Print two.
-* **PCB:**
-  * Board and schematic files are available for Eagle and Fusion360.
-  * The plan is to move to KiCAD for all PCB development but there is no ETA on that yet.
 - - -
 ### Additional Parts:
 * **Stepper Motor**
@@ -24,12 +22,36 @@ All the parts! CAD, PCB and STL files for all of Mugsy's physical components.
 * **M3 Threaded Inserts:**
   * Size: M3*4.6x5.7mm
 * **M3 x 8mm Hex Head Machine Screws**
-* **GT2 Timing Pulley:** 
+* **2GT Timing Pulley:** 
   * Type: 2M-AF
   * 20 Teeth
   * 6mm bore size
 * **GT2 Toothless  Idler Pulleys (2x):** 3mm bore size
-
-***All STEP/Fusion CAD source files will be uploaded as soon as possible.*** 
-
-
+- - -
+# Spout Mech
+### Files:
+* ****Spout Pulley Assembly (2 files):**** Print main and cap.
+* ****Spout Pulley Assembly (2 files):**** Print main and cap.
+* ****Spout Arm(1 file)****: Print one
+- - -
+### Additional Parts:
+* ****Stepper Motor****
+  * Model: 17HS08-1004S |
+  * Step Angle: 1.8 deg
+  * Single Unit Source: [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-16ncm-22-6oz-in-1a-3-7v-42x42x20mm-4-wires-17hs08-1004s)
+* ****M8 x 50mm Threaded Rod****
+* ****8mm Shaft Lock Collar:**** 
+  * 8mm(ID) * 14mm (OD) * 7mm (Depth)
+* ****2GT Timing Pulley:****
+  * 40 Teeth 
+  * 8mm Bore Size
+* ****GT2 Belt:**** 
+  * 156mm * 6mm
+- - -
+# Screen Mount/Stabilizer
+### Files:
+* ****Screen Support:**** Left Side (single)
+* ****Screen Support:**** Right Side (double)
+* ****Screen Mount Main****: Print one
+- - -
+****All STEP/Fusion CAD source files will be uploaded as soon as possible.**** 
