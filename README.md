@@ -1,6 +1,12 @@
 # Design
 All the parts! CAD, PCB and STL files for all of Mugsy's physical components. 
 
+# Mech Control PCB
+### Files:
+* ****Schematic:**** mech-control-SCH-v0.2.fsch
+* ****Board:**** mech-control-BRD-v0.2.fbrd
+- - -
+
 # Cone Mech
 ### Files:
 * **Cone Pulley (2 files):** Print main and top.
