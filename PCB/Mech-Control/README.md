@@ -1,5 +1,6 @@
+## Mech Control:
 
-The Mech Control PCB’s primary function is controlling the stepper motors in the cone mechanism and spout assembly. A while back I realized that having a few smaller and more function specific boards was a way better option then the single monolithic “Brain Board”. Keeps the designs much simpler and allows revisions to single controllers without having to also update everything else.
+The Mech Control PCB’s primary function is controlling the stepper motors in the cone mechanism and spout assembly.
 
 **Components:**
 
