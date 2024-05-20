@@ -2,6 +2,8 @@
 
 The Mech Control PCB’s primary function is controlling the stepper motors in the cone mechanism and spout assembly.
 
+![image](https://github.com/MugsyOS/Design/assets/179913/ac01704d-1b0a-49c8-8d5e-1395d1be8f8f)
+
 **Components:**
 
 -   Nano Microcontroller
