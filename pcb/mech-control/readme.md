@@ -1,4 +1,4 @@
-![image](https://github.com/MugsyOS/Design/assets/179913/b7bff805-70db-4a3c-9fd2-44232a351f67)
+![image](https://github.com/MugsyOS/Design/assets/179913/586bec78-eab4-4342-99fd-90c176f73191)
 
 **Components:**
 * Nano Microcontroller
